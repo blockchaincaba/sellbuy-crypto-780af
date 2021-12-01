@@ -90,7 +90,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Call your representative now!
-    subtitle: This is an optional description for the call to action block.
+    subtitle: For more advice on our services we answer your questions
     actions:
       - label: Get Started
         url: /signup
