@@ -6,9 +6,8 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Convert your Cryptos to Real State
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      Transact safely, from our platform mounted on Blockchain technology
     actions:
       - label: Learn More
         url: /features
